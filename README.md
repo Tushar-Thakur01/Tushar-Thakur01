@@ -19,6 +19,12 @@
 ---
 
 ## 🚀 Live Projects
+- 🔹 **OmniDoc AI**  
+  🌐 https://omnidoc-ai-qklt5qyjf6nwtiknsd4w3h.streamlit.app/
+  
+- 🔹 **ScoreBoard**  
+  🌐 https://scoreboard-q3ri.onrender.com/
+  
 - 🔹 **System Design Simulator**  
   🌐 https://system-design-simulator1.vercel.app/  
 
