@@ -19,6 +19,9 @@
 ---
 
 ## 🚀 Live Projects
+- 🔹 **Repo Radar**  
+  🌐 https://repo-radar-alpha.vercel.app/
+
 - 🔹 **OmniDoc AI**  
   🌐 https://omnidoc-ai-qklt5qyjf6nwtiknsd4w3h.streamlit.app/
   
