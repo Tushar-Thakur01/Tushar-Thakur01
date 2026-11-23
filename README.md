@@ -143,7 +143,7 @@
 <p align="center">
   <a href="mailto:thakurtushar121@gmail.com">Email</a> •
   <a href="https://www.linkedin.com/in/tushar-thakur-823a70221/">LinkedIn</a> •
-  <a href="https://github.com/YOUR_USERNAME">GitHub</a>
+  <a href="https://github.com/Tushar-Thakur01">GitHub</a>
 </p>
 
 <p align="center">
